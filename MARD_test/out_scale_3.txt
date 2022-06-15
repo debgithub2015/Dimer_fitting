@@ -1,0 +1,5 @@
+Optimization terminated successfully.
+         Current function value: 0.084564
+         Iterations: 19
+         Function evaluations: 38
+(-2.67297836, 3.694531250000005, 0.08456395468444187, 0.08456395468444187)

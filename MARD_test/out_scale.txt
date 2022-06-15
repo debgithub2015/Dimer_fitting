@@ -1,0 +1,20 @@
+Optimization terminated successfully.
+         Current function value: 0.184586
+         Iterations: 13
+         Function evaluations: 26
+(u'1-vdW-DF', 0.9068359374999999, 0.1845863647144867, 0.1845863647144867)
+Optimization terminated successfully.
+         Current function value: 0.102317
+         Iterations: 17
+         Function evaluations: 34
+(u'2-vdW-DF2', 2.349609375000003, 0.10231651068083096, 0.10231651068083096)
+Optimization terminated successfully.
+         Current function value: 0.111445
+         Iterations: 18
+         Function evaluations: 36
+(u'3-rev-vdw-df2', 2.325292968750003, 0.11144454676872287, 0.11144454676872287)
+Optimization terminated successfully.
+         Current function value: 0.111273
+         Iterations: 12
+         Function evaluations: 24
+(u'4-vdW-DF3', 0.9888671875000001, 0.11127292523074374, 0.11127292523074374)

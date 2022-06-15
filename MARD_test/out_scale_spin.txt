@@ -1,0 +1,25 @@
+Optimization terminated successfully.
+         Current function value: 0.290902
+         Iterations: 14
+         Function evaluations: 28
+(u'vdwdf', 0.8884765625, 0.290901640626505, 0.290901640626505)
+Optimization terminated successfully.
+         Current function value: 0.202301
+         Iterations: 20
+         Function evaluations: 40
+(u'vdwdf2', 2.3029296875000025, 0.20230074266517256, 0.20230074266517256)
+Optimization terminated successfully.
+         Current function value: 0.174598
+         Iterations: 20
+         Function evaluations: 40
+(-2.67, 3.8557617187500064, 0.17459828379533054, 0.17459828379533054)
+Optimization terminated successfully.
+         Current function value: 0.177083
+         Iterations: 20
+         Function evaluations: 40
+(-2.68, 3.8786132812500065, 0.17708267697747204, 0.17708267697747204)
+Optimization terminated successfully.
+         Current function value: 0.174119
+         Iterations: 21
+         Function evaluations: 42
+(-2.69, 3.901464843750006, 0.17411877675309828, 0.17411877675309828)
